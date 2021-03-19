@@ -2,63 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8ed2fc1-ef9b-4733-962a-c766b92f944b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Refactoring/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Refactoring/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Refactoring/Rental.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Refactoring/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type1/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type1/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type1/Rental.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type1/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type10/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type10/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type10/Rental.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type10/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type10_2/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type10_2/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type10_2/Rental.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type10_2/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type11/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type11/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type11/Rental.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type11/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type12/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type12/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type12/Rental.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type12/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type2/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type2/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type2/Rental.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type2/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type3/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type3/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type3/Rental.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type3/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type4/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type4/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type4/Rental.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type4/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type5/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type5/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type5/Rental.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type5/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type6/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type6/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type6/Rental.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type6/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type7/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type7/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type7/Rental.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type7/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type8/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type8/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type8/Rental.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type8/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type9/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type9/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type9/Rental.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type9/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExtraMethod/ExtraMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExtraMethod/type1/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExtraMethod/type1/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExtraMethod/type1/Rental.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExtraMethod/type1/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExtraMethod/type2/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExtraMethod/type2/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExtraMethod/type2/Rental.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExtraMethod/type2/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExtraMethod/type3/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExtraMethod/type3/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExtraMethod/type3/Rental.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExtraMethod/type3/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IntroduceExplainingVariable/type1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IntroduceExplainingVariable/type2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ReplaceTempWithQuery/type1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ReplaceTempWithQuery/type1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ReplaceTempWithQuery/type2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ReplaceTempWithQuery/type2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inlineMethod/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inlineMethod/type1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inlineMethod/type2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inlineTemp/type1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inlineTemp/type1/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Refactoring/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Refactoring/TestModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RefactoryStart/type1/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type1/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RefactoryStart/type10/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type10/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RefactoryStart/type10_2/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type10_2/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RefactoryStart/type11/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type11/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RefactoryStart/type12/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type12/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RefactoryStart/type2/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type2/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RefactoryStart/type3/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type3/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RefactoryStart/type4/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type4/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RefactoryStart/type5/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type5/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RefactoryStart/type6/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type6/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RefactoryStart/type7/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type7/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RefactoryStart/type8/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type8/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RefactoryStart/type9/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RefactoryStart/type9/Test01.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,43 +53,77 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type10_2/Customer.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/inlineMethod/type1/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="345">
+              <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+              <folding>
+                <element signature="e#92#93#0" expanded="true" />
+                <element signature="e#121#122#0" expanded="true" />
+                <element signature="e#166#167#0" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+                <element signature="e#307#308#0" expanded="true" />
+                <element signature="e#320#321#0" expanded="true" />
+                <element signature="e#348#349#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type10/Test01.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/inlineMethod/type2/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            <state relative-caret-position="173">
+              <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+              <folding>
+                <element signature="e#313#314#0" expanded="true" />
+                <element signature="e#354#355#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type10/Movie.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/inlineTemp/type1/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            <state relative-caret-position="265">
+              <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+              <folding>
+                <element signature="e#119#120#0" expanded="true" />
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#244#245#0" expanded="true" />
+                <element signature="e#436#437#0" expanded="true" />
+                <element signature="e#487#488#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type10/Customer.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ReplaceTempWithQuery/type1/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="242">
+              <caret line="33" selection-start-line="33" selection-end-line="35" selection-end-column="18" />
+              <folding>
+                <element signature="e#147#148#0" expanded="true" />
+                <element signature="e#179#180#0" expanded="true" />
+                <element signature="e#211#212#0" expanded="true" />
+                <element signature="e#242#243#0" expanded="true" />
+                <element signature="e#287#288#0" expanded="true" />
+                <element signature="e#327#328#0" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#268#269#0" expanded="true" />
+                <element signature="e#913#914#0" expanded="true" />
+                <element signature="e#956#957#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type9/Test01.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ReplaceTempWithQuery/type2/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="46">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -114,51 +132,70 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type9/Rental.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ReplaceTempWithQuery/type2/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="127">
+              <caret line="65" column="34" selection-start-line="65" selection-start-column="34" selection-end-line="65" selection-end-column="34" />
+              <folding>
+                <element signature="e#1544#1545#0" expanded="true" />
+                <element signature="e#1597#1598#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type9/Movie.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/IntroduceExplainingVariable/type1/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type9/Customer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type1/Customer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="161">
+              <caret line="10" selection-start-line="10" selection-end-line="16" selection-end-column="5" />
+              <folding>
+                <element signature="e#160#161#0" expanded="true" />
+                <element signature="e#186#187#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type6/Customer.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/IntroduceExplainingVariable/type2/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+            <state relative-caret-position="263">
+              <caret line="27" column="17" lean-forward="true" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ReplaceTempWithQuery/type1/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding>
+                <element signature="e#104#105#0" expanded="true" />
+                <element signature="e#148#149#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/inlineTemp/type1/Test01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -166,57 +203,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type1/Movie.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type1/Rental.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type1/Test01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type2/Movie.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type2/Customer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type2/Rental.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type2/Test01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type3/Customer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type3/Movie.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type3/Rental.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type3/Test01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type4/Customer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type4/Movie.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type4/Rental.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type4/Test01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type5/Customer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type5/Movie.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type5/Rental.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type5/Test01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type6/Customer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type6/Movie.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type6/Rental.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type6/Test01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type7/Customer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type7/Movie.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type7/Rental.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type7/Test01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type8/Customer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type8/Movie.java" />
         <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type8/Rental.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type8/Test01.java" />
         <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type9/Customer.java" />
         <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type9/Movie.java" />
         <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type9/Rental.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type9/Test01.java" />
         <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type10/Customer.java" />
         <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type10/Movie.java" />
         <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type10/Rental.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type10/Test01.java" />
         <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type10_2/Customer.java" />
         <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type10_2/Movie.java" />
         <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type10_2/Rental.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type10_2/Test01.java" />
         <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type11/Customer.java" />
         <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type11/Movie.java" />
         <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type11/Rental.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type11/Test01.java" />
         <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type12/Customer.java" />
         <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type12/Movie.java" />
         <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type12/Rental.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ExtraMethod/type1/Order.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ExtraMethod/type1/Rental.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Refactoring/Test01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type1/Test01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type2/Test01.java" />
         <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type12/Test01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type11/Test01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type10_2/Test01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type10/Test01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type9/Test01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type8/Test01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type7/Test01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type6/Test01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type5/Test01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type4/Test01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type3/Test01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ExtraMethod/ExtraMethod.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Refactoring/TestModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ExtraMethod/type1/Test01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ExtraMethod/type1/Customer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ExtraMethod/type2/Rental.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ExtraMethod/type2/Customer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ExtraMethod/type3/Customer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/inlineMethod/type1/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/inlineMethod/type2/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/inlineTemp/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/inlineTemp/type1/Test01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/inlineTemp/type1/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ReplaceTempWithQuery/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ReplaceTempWithQuery/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ReplaceTempWithQuery/type1/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ReplaceTempWithQuery/type2/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/IntroduceExplainingVariable/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/IntroduceExplainingVariable/type1/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/IntroduceExplainingVariable/type2/Person.java" />
       </list>
     </option>
   </component>
@@ -264,14 +301,7 @@
               <item name="Refactoring" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Refactoring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Refactoring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Refactoring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="RefactoryStart" type="462c0819:PsiDirectoryNode" />
+              <item name="IntroduceExplainingVariable" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -283,17 +313,26 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1616143034027" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1616168417861" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main.java.IntroduceExplainingVariable.type2" />
+      <recent name="main.java.inlineMethod.type2" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\devCode\Refactoring\src\main\java\ReplaceTempWithQuery\type2" />
+      <recent name="D:\devCode\Refactoring\src\main\java\ExtraMethod\type3" />
+      <recent name="D:\devCode\Refactoring\src\main\java\ExtraMethod\type2" />
+      <recent name="D:\devCode\Refactoring\src\main\java\ExtraMethod\type1" />
       <recent name="D:\devCode\Refactoring\src\main\java" />
     </key>
   </component>
@@ -309,6 +348,68 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Application.Test01 (2)">
+    <configuration name="Test01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.RefactoryStart.type1.Test01" />
+      <module name="Refactoring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.RefactoryStart.type1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test01 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.ExtraMethod.type3.Test01" />
+      <module name="Refactoring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.ExtraMethod.type3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.ExtraMethod.type1.Test01" />
+      <module name="Refactoring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.ExtraMethod.type1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestModel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.Refactoring.TestModel" />
+      <module name="Refactoring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.Refactoring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test01 (2)" />
+        <item itemvalue="Application.Test01" />
+        <item itemvalue="Application.Test01 (1)" />
+        <item itemvalue="Application.TestModel" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -319,12 +420,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616142536505</updated>
-      <workItem from="1616142538344" duration="488000" />
+      <workItem from="1616142538344" duration="17172000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="488000" />
+    <option name="totallyTimeSpent" value="17172000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -335,17 +436,18 @@
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Duplicate detector" weight="0.32991204" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50067025" side_tool="true" weight="0.3328446" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.32991204" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32991204" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.3328446" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -366,286 +468,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type1/Rental.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="39" selection-start-column="39" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type1/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="39" selection-start-column="39" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type2/Movie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type2/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type2/Rental.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="39" selection-start-column="39" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type2/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type3/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type3/Movie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="39" selection-start-column="39" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type3/Rental.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="39" selection-start-column="39" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type3/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="39" selection-start-column="39" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type4/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type4/Movie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type4/Rental.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type4/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type5/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type5/Movie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type5/Rental.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type5/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type6/Movie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type6/Rental.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type6/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type7/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type7/Movie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type7/Rental.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type7/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type8/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type8/Movie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type8/Rental.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type8/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type10/Rental.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="40" selection-start-column="40" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type10_2/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="42" selection-start-column="42" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type12/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type12/Rental.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type12/Movie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type12/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type11/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type11/Rental.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type11/Movie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type11/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type10_2/Rental.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type10_2/Movie.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
@@ -657,13 +479,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type10/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -681,13 +496,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type9/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type9/Rental.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -702,13 +510,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type9/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type1/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -719,7 +520,387 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type6/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
-          <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type9/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-538">
+          <caret line="26" column="38" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ExtraMethod/type1/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type12/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <element signature="e#106#107#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type10_2/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type10/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type9/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type8/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type7/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="25" />
+          <folding>
+            <element signature="e#106#107#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type6/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type5/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type4/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type3/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type2/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Refactoring/Rental.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Refactoring/Movie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type11/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Refactoring/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Refactoring/TestModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type1/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding>
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ExtraMethod/ExtraMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ExtraMethod/type1/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ExtraMethod/type1/Rental.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ExtraMethod/type1/Movie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-23">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ExtraMethod/type1/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+          <folding>
+            <element signature="e#190#198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ExtraMethod/type2/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ExtraMethod/type2/Rental.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ExtraMethod/type3/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ExtraMethod/type3/Rental.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ExtraMethod/type2/Movie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ExtraMethod/type2/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="40" column="10" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ExtraMethod/type3/Movie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ExtraMethod/type3/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inlineMethod/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inlineMethod/type1/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+          <folding>
+            <element signature="e#92#93#0" expanded="true" />
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inlineMethod/type2/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+          <folding>
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inlineTemp/type1/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inlineTemp/type1/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+          <folding>
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ReplaceTempWithQuery/type1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#148#149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ReplaceTempWithQuery/type2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ReplaceTempWithQuery/type1/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="33" selection-start-line="33" selection-end-line="35" selection-end-column="18" />
+          <folding>
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#913#914#0" expanded="true" />
+            <element signature="e#956#957#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ReplaceTempWithQuery/type2/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="65" column="34" selection-start-line="65" selection-start-column="34" selection-end-line="65" selection-end-column="34" />
+          <folding>
+            <element signature="e#1544#1545#0" expanded="true" />
+            <element signature="e#1597#1598#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/IntroduceExplainingVariable/type1/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="10" selection-start-line="10" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/IntroduceExplainingVariable/type2/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="27" column="17" lean-forward="true" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
         </state>
       </provider>
     </entry>
