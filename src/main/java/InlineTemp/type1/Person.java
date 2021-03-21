@@ -1,4 +1,4 @@
-package main.java.inlineTemp.type1;
+package main.java.InlineTemp.type1;
 
 public class Person {
     private Integer basePrice;
