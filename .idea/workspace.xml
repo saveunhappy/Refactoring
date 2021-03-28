@@ -2,25 +2,68 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8ed2fc1-ef9b-4733-962a-c766b92f944b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/RemoveAssignmentToParameter/Param.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RemoveAssignmentToParameter/type1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RemoveAssignmentToParameter/type2/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ReplaceMethodWithMethodObject/type1/Amount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ReplaceMethodWithMethodObject/type1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ReplaceMethodWithMethodObject/type2/Amount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ReplaceMethodWithMethodObject/type2/Gamma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ReplaceMethodWithMethodObject/type2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SplitTempVar/type1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SplitTempVar/type2/Physics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SplitTempVar/type3/Physics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExtractClass12/type1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExtractClass12/type2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExtractClass12/type2/TelephoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExtractClass12/type3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExtractClass12/type3/TelephoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExtractClass12/type4/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExtractClass12/type4/TelephoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/InlineClass13/type4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/InlineClass13/type4/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/InlineClass13/type4/TelephoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/InlineClass13/type5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/InlineClass13/type5/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/InlineClass13/type5/TelephoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MoveField11/type1/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MoveField11/type1/AccountType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MoveField11/type2/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MoveField11/type2/AccountType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MoveMethod10/type1/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MoveMethod10/type1/AccountType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MoveMethod10/type2/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MoveMethod10/type2/AccountType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MoveMethod10/type3/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MoveMethod10/type3/AccountType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SubstitudeAlgorithm9/type1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SubstitudeAlgorithm9/type2/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Refactoring/main/java/ExtraMethod/type2/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Refactoring/main/java/ExtraMethod/type2/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Refactoring/main/java/ExtraMethod/type3/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Refactoring/main/java/ExtraMethod/type3/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inlineMethod/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InlineMethod/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inlineMethod/type1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InlineMethod/type1/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inlineMethod/type2/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InlineMethod/type2/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inlineTemp/type1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InlineTemp/type1/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inlineTemp/type1/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InlineTemp/type1/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExtraMethod/ExtraMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExtraMethod1/ExtraMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExtraMethod/type1/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExtraMethod1/type1/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExtraMethod/type1/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExtraMethod1/type1/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExtraMethod/type1/Rental.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExtraMethod1/type1/Rental.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExtraMethod/type1/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExtraMethod1/type1/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExtraMethod/type2/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExtraMethod1/type2/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExtraMethod/type2/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExtraMethod1/type2/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExtraMethod/type2/Rental.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExtraMethod1/type2/Rental.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExtraMethod/type2/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExtraMethod1/type2/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExtraMethod/type3/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExtraMethod1/type3/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExtraMethod/type3/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExtraMethod1/type3/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExtraMethod/type3/Rental.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExtraMethod1/type3/Rental.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExtraMethod/type3/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExtraMethod1/type3/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InlineMethod/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InlineMethod2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InlineMethod/type1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InlineMethod2/type1/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InlineMethod/type2/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InlineMethod2/type2/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InlineTemp/type1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InlineTemp3/type1/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InlineTemp/type1/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InlineTemp3/type1/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IntroduceExplainingVariable/type1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IntroduceExplainingVariable5/type1/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IntroduceExplainingVariable/type2/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IntroduceExplainingVariable5/type2/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RemoveAssignmentToParameter/Param.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RemoveAssignmentToParameter7/Param.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RemoveAssignmentToParameter/type1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RemoveAssignmentToParameter7/type1/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RemoveAssignmentToParameter/type2/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RemoveAssignmentToParameter7/type2/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ReplaceMethodWithMethodObject/type1/Amount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ReplaceMethodWithMethodObject8/type1/Amount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ReplaceMethodWithMethodObject/type1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ReplaceMethodWithMethodObject8/type1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ReplaceMethodWithMethodObject/type2/Amount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ReplaceMethodWithMethodObject8/type2/Amount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ReplaceMethodWithMethodObject/type2/Gamma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ReplaceMethodWithMethodObject8/type2/Gamma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ReplaceMethodWithMethodObject/type2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ReplaceMethodWithMethodObject8/type2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ReplaceTempWithQuery/type1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ReplaceTempWithQuery4/type1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ReplaceTempWithQuery/type1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ReplaceTempWithQuery4/type1/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ReplaceTempWithQuery/type2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ReplaceTempWithQuery4/type2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ReplaceTempWithQuery/type2/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ReplaceTempWithQuery4/type2/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SplitTempVar/type1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SplitTempVar6/type1/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SplitTempVar/type2/Physics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SplitTempVar6/type2/Physics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SplitTempVar/type3/Physics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SplitTempVar6/type3/Physics.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,114 +74,123 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/RemoveAssignmentToParameter/type1/Person.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ExtractClass12/type3/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+            <state relative-caret-position="55">
+              <caret line="9" selection-start-line="9" selection-end-line="11" selection-end-column="5" />
               <folding>
-                <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#261#262#0" expanded="true" />
+                <element signature="e#276#277#0" expanded="true" />
+                <element signature="e#342#343#0" expanded="true" />
+                <element signature="e#513#514#0" expanded="true" />
+                <element signature="e#550#551#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/RemoveAssignmentToParameter/type2/Person.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ExtractClass12/type4/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="35" column="14" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/RemoveAssignmentToParameter/Param.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-575">
-              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+            <state relative-caret-position="391">
+              <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1499#1500#0" expanded="true" />
-                <element signature="e#1565#1566#0" expanded="true" />
-                <element signature="e#1607#1608#0" expanded="true" />
-                <element signature="e#1653#1654#0" expanded="true" />
+                <element signature="e#205#206#0" expanded="true" />
+                <element signature="e#243#244#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#368#369#0" expanded="true" />
+                <element signature="e#276#277#0" expanded="true" />
+                <element signature="e#347#348#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ReplaceMethodWithMethodObject/type1/Amount.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ExtractClass12/type4/TelephoneNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="30" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="30" />
+              <folding>
+                <element signature="e#167#168#0" expanded="true" />
+                <element signature="e#238#239#0" expanded="true" />
+                <element signature="e#160#161#0" expanded="true" />
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#233#234#0" expanded="true" />
+                <element signature="e#269#270#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/InlineTemp3/type1/Person.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="69">
-              <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="5" />
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/InlineClass13/type4/TelephoneNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="35">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/InlineClass13/type4/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/InlineClass13/type5/TelephoneNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/InlineClass13/type5/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
               <folding>
-                <element signature="e#100#101#0" expanded="true" />
-                <element signature="e#124#125#0" expanded="true" />
+                <element signature="e#717#718#0" expanded="true" />
+                <element signature="e#755#756#0" expanded="true" />
+                <element signature="e#820#821#0" expanded="true" />
+                <element signature="e#872#873#0" expanded="true" />
+                <element signature="e#911#912#0" expanded="true" />
+                <element signature="e#946#947#0" expanded="true" />
+                <element signature="e#1002#1003#0" expanded="true" />
+                <element signature="e#1050#1051#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ReplaceMethodWithMethodObject/type2/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/InlineClass13/type4/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ReplaceMethodWithMethodObject/type2/Amount.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="7" column="63" lean-forward="true" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="65" />
-              <folding>
-                <element signature="e#104#105#0" expanded="true" />
-                <element signature="e#130#131#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type9/Customer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+            <state relative-caret-position="115">
+              <caret line="5" selection-start-line="5" selection-end-line="6" selection-end-column="55" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ReplaceMethodWithMethodObject/type2/Gamma.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/InlineClass13/type5/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ReplaceMethodWithMethodObject/type1/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/jdk1.8/src.zip!/java/util/Calendar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="312" column="22" selection-start-line="312" selection-start-column="22" selection-end-line="312" selection-end-column="22" />
-              <folding>
-                <element signature="e#71057#71058#0" expanded="true" />
-                <element signature="e#71104#71105#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="253">
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -159,36 +211,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/ExtraMethod/type1/Order.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ExtraMethod/type1/Rental.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Refactoring/Test01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type1/Test01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type2/Test01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type12/Test01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type11/Test01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type10_2/Test01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type10/Test01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type9/Test01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type8/Test01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type7/Test01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type6/Test01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type5/Test01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type4/Test01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RefactoryStart/type3/Test01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ExtraMethod/ExtraMethod.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Refactoring/TestModel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ExtraMethod/type1/Test01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ExtraMethod/type1/Customer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ExtraMethod/type2/Rental.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ExtraMethod/type2/Customer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ExtraMethod/type3/Customer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/inlineMethod/type1/Person.java" />
-        <option value="$PROJECT_DIR$/src/main/java/inlineMethod/type2/Person.java" />
-        <option value="$PROJECT_DIR$/src/main/java/inlineTemp/Person.java" />
-        <option value="$PROJECT_DIR$/src/main/java/inlineTemp/type1/Test01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/inlineTemp/type1/Person.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ReplaceTempWithQuery/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ReplaceTempWithQuery/Person.java" />
         <option value="$PROJECT_DIR$/src/main/java/ReplaceTempWithQuery/type1/Person.java" />
         <option value="$PROJECT_DIR$/src/main/java/ReplaceTempWithQuery/type2/Person.java" />
         <option value="$PROJECT_DIR$/src/main/java/IntroduceExplainingVariable/Person.java" />
@@ -210,6 +232,36 @@
         <option value="$PROJECT_DIR$/src/main/java/ReplaceMethodWithMethodObject/type1/Amount.java" />
         <option value="$PROJECT_DIR$/src/main/java/ReplaceMethodWithMethodObject/type2/Amount.java" />
         <option value="$PROJECT_DIR$/src/main/java/ReplaceMethodWithMethodObject/type2/Gamma.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SubstitudeAlgorithm/type1/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/SubstitudeAlgorithm/type2/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SubstitudeAlgorithm/type2/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SubstitudeAlgorithm9/type2/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MoveMethod/type1/AccountType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MoveMethod/type1/Account.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MoveMethod/type2/AccountType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MoveMethod/type2/Account.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MoveMethod/type3/AccountType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MoveMethod10/type3/AccountType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MoveFiled/type3/Account.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MoveMethod10/type3/Account.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MoveField11/type1/AccountType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MoveField11/type1/Account.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MoveField11/type2/Account.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ExtractClass12/type2/Physics.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ExtractClass12/type1/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ExtractClass12/type2/TelephoneNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ExtractClass12/type3/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ExtractClass12/type2/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ExtractClass12/type4/TelephoneNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ExtractClass12/type4/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InlineClass13/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InlineTemp3/type1/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InlineClass13/type3/TelephoneNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InlineClass13/type3/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InlineClass13/type4/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InlineClass13/type5/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InlineClass13/type4/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InlineClass13/type5/Main.java" />
       </list>
     </option>
   </component>
@@ -234,7 +286,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -258,72 +309,72 @@
               <item name="Refactoring" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ReplaceMethodWithMethodObject" type="462c0819:PsiDirectoryNode" />
+              <item name="ExtractClass12" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Refactoring" type="b2602c69:ProjectViewProjectNode" />
               <item name="Refactoring" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ReplaceMethodWithMethodObject" type="462c0819:PsiDirectoryNode" />
-              <item name="type1" type="462c0819:PsiDirectoryNode" />
+              <item name="InlineClass13" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Refactoring" type="b2602c69:ProjectViewProjectNode" />
               <item name="Refactoring" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ReplaceMethodWithMethodObject" type="462c0819:PsiDirectoryNode" />
-              <item name="type2" type="462c0819:PsiDirectoryNode" />
+              <item name="InlineClass13" type="462c0819:PsiDirectoryNode" />
+              <item name="type4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Refactoring" type="b2602c69:ProjectViewProjectNode" />
               <item name="Refactoring" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="SplitTempVar" type="462c0819:PsiDirectoryNode" />
+              <item name="InlineClass13" type="462c0819:PsiDirectoryNode" />
+              <item name="type5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Refactoring" type="b2602c69:ProjectViewProjectNode" />
               <item name="Refactoring" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="SplitTempVar" type="462c0819:PsiDirectoryNode" />
-              <item name="type2" type="462c0819:PsiDirectoryNode" />
+              <item name="SplitTempVar6" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1616343463654" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1616946994462" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/OpenSourceCode/spring-framework" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main.java.InlineClass13.type5" />
+      <recent name="main.java.SubstitudeAlgorithm.type2" />
       <recent name="main.java.ReplaceMethodWithMethodObject.type2" />
       <recent name="main.java.removeAssignmentToParameter.type2" />
       <recent name="main.java.splitTempVar.type3" />
-      <recent name="main.java.IntroduceExplainingVariable.type2" />
-      <recent name="main.java.inlineMethod.type2" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\devCode\Refactoring\src\main\java\ReplaceTempWithQuery\type2" />
-      <recent name="D:\devCode\Refactoring\src\main\java\ExtraMethod\type3" />
-      <recent name="D:\devCode\Refactoring\src\main\java\ExtraMethod\type2" />
-      <recent name="D:\devCode\Refactoring\src\main\java\ExtraMethod\type1" />
-      <recent name="D:\devCode\Refactoring\src\main\java" />
+      <recent name="D:\devCode\Refactoring\src\main\java\InlineClass13\type3" />
+      <recent name="D:\devCode\Refactoring\src\main\java\InlineClass13" />
+      <recent name="D:\devCode\Refactoring\src\main\java\ExtractClass12\type4" />
+      <recent name="D:\devCode\Refactoring\src\main\java\ExtractClass12\type3" />
+      <recent name="D:\devCode\Refactoring\src\main\java\ExtractClass12" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -339,12 +390,12 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.ReplaceMethodWithMethodObject.type2.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.ReplaceMethodWithMethodObject8.type1.Main" />
       <module name="Refactoring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.ReplaceMethodWithMethodObject.type2.*" />
+          <option name="PATTERN" value="main.java.ReplaceMethodWithMethodObject8.type1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -353,11 +404,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.ReplaceMethodWithMethodObject.type1.Main" />
+      <option name="MAIN_CLASS_NAME" value="main.java.ReplaceMethodWithMethodObject8.type2.Main" />
       <module name="Refactoring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.ReplaceMethodWithMethodObject.type1.*" />
+          <option name="PATTERN" value="main.java.ReplaceMethodWithMethodObject8.type2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -366,11 +417,11 @@
       </method>
     </configuration>
     <configuration name="Param" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.RemoveAssignmentToParameter.Param" />
+      <option name="MAIN_CLASS_NAME" value="main.java.RemoveAssignmentToParameter7.Param" />
       <module name="Refactoring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.RemoveAssignmentToParameter.*" />
+          <option name="PATTERN" value="main.java.RemoveAssignmentToParameter7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -379,11 +430,11 @@
       </method>
     </configuration>
     <configuration name="Physics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.SplitTempVar.type2.Physics" />
+      <option name="MAIN_CLASS_NAME" value="main.java.SplitTempVar6.type2.Physics" />
       <module name="Refactoring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.SplitTempVar.type2.*" />
+          <option name="PATTERN" value="main.java.SplitTempVar6.type2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -409,7 +460,6 @@
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Param" />
-        <item itemvalue="Application.Physics (1)" />
         <item itemvalue="Application.Physics" />
       </list>
     </recent_temporary>
@@ -427,26 +477,28 @@
       <workItem from="1616142538344" duration="17632000" />
       <workItem from="1616330704477" duration="255000" />
       <workItem from="1616331002780" duration="9981000" />
+      <workItem from="1616414395513" duration="1530000" />
+      <workItem from="1616852777852" duration="302000" />
+      <workItem from="1616902922811" duration="11529000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27868000" />
+    <option name="totallyTimeSpent" value="41229000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25268096" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2627346" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Jms Browser" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32991204" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32991204" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.3328446" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398827" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -459,7 +511,7 @@
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32991204" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info anchor="right" id="Codota" weight="0.3297587" />
+      <window_info anchor="bottom" id="Jms Browser" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -470,6 +522,7 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Jms Messenger" order="9" />
+      <window_info anchor="right" id="Codota" order="10" weight="0.3297587" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -479,7 +532,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/RemoveAssignmentToParameter/Param.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/RemoveAssignmentToParameter7/Param.java</url>
           <line>27</line>
           <properties />
           <option name="timeStamp" value="3" />
@@ -488,274 +541,28 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type7/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="25" />
-          <folding>
-            <element signature="e#106#107#0" expanded="true" />
-            <element signature="e#138#139#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type6/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type5/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type4/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type3/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type2/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Refactoring/Rental.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Refactoring/Movie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type11/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Refactoring/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Refactoring/TestModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type1/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-          <folding>
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#179#180#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ExtraMethod/ExtraMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ExtraMethod/type1/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ExtraMethod/type1/Rental.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ExtraMethod/type1/Movie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-23">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ExtraMethod/type1/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-          <folding>
-            <element signature="e#190#198#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ExtraMethod/type2/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ExtraMethod/type2/Rental.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ExtraMethod/type3/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ExtraMethod/type3/Rental.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ExtraMethod/type2/Movie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ExtraMethod/type2/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="40" column="10" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ExtraMethod/type3/Movie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ExtraMethod/type3/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/InlineMethod/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/InlineMethod/type1/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
-          <folding>
-            <element signature="e#92#93#0" expanded="true" />
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/InlineMethod/type2/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/InlineTemp/type1/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ReplaceTempWithQuery/type1/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="33" selection-start-line="33" selection-end-line="35" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ReplaceTempWithQuery/type2/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ReplaceTempWithQuery/type2/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1311">
-          <caret line="65" column="34" selection-start-line="65" selection-start-column="34" selection-end-line="65" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/IntroduceExplainingVariable/type1/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/IntroduceExplainingVariable5/type1/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ReplaceTempWithQuery/type1/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ReplaceTempWithQuery4/type1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/IntroduceExplainingVariable/type2/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/IntroduceExplainingVariable5/type2/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="667">
           <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SplitTempVar/type1/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/SplitTempVar6/type1/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
@@ -772,141 +579,438 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SplitTempVar/type2/Physics.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/SplitTempVar6/type2/Physics.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SplitTempVar/type3/Physics.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/SplitTempVar6/type3/Physics.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/InlineTemp/type1/Test01.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/InlineTemp3/type1/Test01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/text/DateFormat.java">
+    <entry file="jar://E:/jdk1.8/src.zip!/java/text/DateFormat.java" />
+    <entry file="jar://E:/jdk1.8/src.zip!/java/util/Date.java" />
+    <entry file="jar://E:/jdk1.8/src.zip!/java/util/Calendar.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/RemoveAssignmentToParameter7/type1/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="309" selection-start-line="309" selection-end-line="309" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/Date.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="649" column="15" selection-start-line="649" selection-start-column="15" selection-end-line="649" selection-end-column="15" />
-          <folding>
-            <element signature="e#7577#7578#0" expanded="true" />
-            <element signature="e#7625#7626#0" expanded="true" />
-            <element signature="e#28620#28621#0" expanded="true" />
-            <element signature="e#28671#28672#0" expanded="true" />
-            <element signature="e#30042#30043#0" expanded="true" />
-            <element signature="e#30120#30121#0" expanded="true" />
-            <element signature="e#31971#31972#0" expanded="true" />
-            <element signature="e#32021#32022#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk1.8/src.zip!/java/util/Calendar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="312" column="22" selection-start-line="312" selection-start-column="22" selection-end-line="312" selection-end-column="22" />
-          <folding>
-            <element signature="e#71057#71058#0" expanded="true" />
-            <element signature="e#71104#71105#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RemoveAssignmentToParameter/type1/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
+        <state relative-caret-position="414">
           <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-          <folding>
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#261#262#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RemoveAssignmentToParameter/Param.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/RemoveAssignmentToParameter7/type2/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-575">
+        <state relative-caret-position="805">
+          <caret line="35" column="14" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RemoveAssignmentToParameter7/Param.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
           <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1499#1500#0" expanded="true" />
-            <element signature="e#1565#1566#0" expanded="true" />
-            <element signature="e#1607#1608#0" expanded="true" />
-            <element signature="e#1653#1654#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RemoveAssignmentToParameter/type2/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="35" column="14" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/RefactoryStart/type9/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
+        <state relative-caret-position="575">
           <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ReplaceMethodWithMethodObject/type1/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ReplaceMethodWithMethodObject8/type1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ReplaceMethodWithMethodObject/type2/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ReplaceMethodWithMethodObject8/type2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ReplaceMethodWithMethodObject8/type1/Amount.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
-          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ReplaceMethodWithMethodObject/type1/Amount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="5" />
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
           <folding>
             <element signature="e#100#101#0" expanded="true" />
-            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ReplaceMethodWithMethodObject/type2/Amount.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ReplaceMethodWithMethodObject8/type2/Amount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="7" column="63" lean-forward="true" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="65" />
+        <state relative-caret-position="115">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ReplaceMethodWithMethodObject8/type2/Gamma.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SubstitudeAlgorithm9/type1/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" selection-start-line="4" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SubstitudeAlgorithm9/type2/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
           <folding>
-            <element signature="e#104#105#0" expanded="true" />
-            <element signature="e#130#131#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ReplaceMethodWithMethodObject/type2/Gamma.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/MoveFiled/type2/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MoveFiled/type2/AccountType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MoveFiled/type3/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MoveFiled/type3/AccountType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MoveMethod10/type1/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="851">
+          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+          <folding>
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#609#610#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#759#760#0" expanded="true" />
+            <element signature="e#814#815#0" expanded="true" />
+            <element signature="e#864#865#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MoveMethod10/type1/AccountType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MoveMethod10/type2/AccountType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MoveMethod10/type3/AccountType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MoveMethod10/type3/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+          <folding>
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MoveMethod10/type2/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="26" />
+          <folding>
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#492#493#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MoveField11/type1/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+          <folding>
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MoveField11/type1/AccountType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+          <folding>
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MoveField11/type2/AccountType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MoveField11/type2/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="35" />
+          <folding>
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ExtractClass12/type1/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="34" lean-forward="true" selection-start-line="2" selection-end-line="34" />
+          <folding>
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ExtractClass12/type2/TelephoneNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+          <folding>
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ExtractClass12/type2/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
-          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding>
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#758#759#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ExtractClass12/type3/TelephoneNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ExtractClass12/type3/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="9" selection-start-line="9" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ExtractClass12/type4/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+          <folding>
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ExtractClass12/type4/TelephoneNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="30" />
+          <folding>
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/InlineClass13/TelephoneNumber.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/InlineClass13/Person.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/InlineTemp3/type1/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/InlineClass13/type5/TelephoneNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/InlineClass13/type4/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/InlineClass13/type4/TelephoneNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/InlineClass13/type5/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+          <folding>
+            <element signature="e#717#718#0" expanded="true" />
+            <element signature="e#755#756#0" expanded="true" />
+            <element signature="e#820#821#0" expanded="true" />
+            <element signature="e#872#873#0" expanded="true" />
+            <element signature="e#911#912#0" expanded="true" />
+            <element signature="e#946#947#0" expanded="true" />
+            <element signature="e#1002#1003#0" expanded="true" />
+            <element signature="e#1050#1051#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/InlineClass13/type4/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" selection-start-line="5" selection-end-line="6" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/InlineClass13/type5/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -976,7 +1080,7 @@
       </state>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>jdk11</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
