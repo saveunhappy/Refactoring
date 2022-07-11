@@ -1,4 +1,4 @@
-package main.java.EncapsuleCollection27.type4;
+package EncapsuleCollection27.type4;
 
 public class Course {
     public Course(String name, boolean advanced) {

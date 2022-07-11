@@ -1,4 +1,4 @@
-package main.java.RefactoryStart.type10;
+package RefactoryStart.type10;
 public class Movie {
     public static final int CHILERENDS = 2;
     public static final int REGULAR = 0;

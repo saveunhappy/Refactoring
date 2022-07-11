@@ -1,7 +1,7 @@
-package main.java.Refactoring;
+package Refactoring;
 
 public class TestModel {
-    public static void test() {
+    public static void main(String[] args) {
         Customer customer = new Customer();
         customer.setName("阿彪");
         customer.addRental(new Rental(new Movie("海绵宝宝",Movie.CHILERENDS),3));
@@ -18,5 +18,8 @@ public class TestModel {
         customer.addRental(rental3);
         customer.addRental(rental4);
         System.out.println(customer.statement());
+    }
+    public static void test() {
+
     }
 }

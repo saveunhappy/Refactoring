@@ -1,4 +1,4 @@
-package main.java.ReplaceTempWithQuery4.type1;
+package ReplaceTempWithQuery4.type1;
 
 public class Main {
     public static void main(String[] args) {

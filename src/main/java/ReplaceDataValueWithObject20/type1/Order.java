@@ -1,4 +1,4 @@
-package main.java.ReplaceDataValueWithObject20.type1;
+package ReplaceDataValueWithObject20.type1;
 
 import java.util.Collection;
 import java.util.Iterator;

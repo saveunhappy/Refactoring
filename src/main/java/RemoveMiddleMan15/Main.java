@@ -1,4 +1,4 @@
-package main.java.RemoveMiddleMan15;
+package RemoveMiddleMan15;
 
 public class Main {
     public static void main(String[] args) {

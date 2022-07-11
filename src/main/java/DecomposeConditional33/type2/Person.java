@@ -1,4 +1,4 @@
-package main.java.DecomposeConditional33.type2;
+package DecomposeConditional33.type2;
 
 import java.math.BigDecimal;
 import java.util.Date;

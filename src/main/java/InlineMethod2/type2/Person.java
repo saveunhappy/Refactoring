@@ -1,4 +1,4 @@
-package main.java.InlineMethod2.type2;
+package InlineMethod2.type2;
 
 public class Person {
     public Integer getNumber() {

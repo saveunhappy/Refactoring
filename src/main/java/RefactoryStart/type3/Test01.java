@@ -1,6 +1,7 @@
-package main.java.RefactoryStart.type3;
+package RefactoryStart.type3;
 
-import main.java.Refactoring.TestModel;
+
+import Refactoring.TestModel;
 
 public class Test01 {
     public static void main(String[] args) {

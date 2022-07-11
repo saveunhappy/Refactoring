@@ -1,4 +1,4 @@
-package main.java.RefactoryStart.type2;
+package RefactoryStart.type2;
 
 import java.util.Enumeration;
 import java.util.Vector;

@@ -1,4 +1,4 @@
-package main.java.InlineClass13.type5;
+package InlineClass13.type5;
 
 public class TelephoneNumber {
     private String areaCode;

@@ -1,4 +1,4 @@
-package main.java.ExtraMethod1.type3;
+package ExtraMethod1.type3;
 
 public class Movie {
     public static final int CHILERENDS = 2;

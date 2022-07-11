@@ -1,4 +1,4 @@
-package main.java.HideDelegate14.type1;
+package HideDelegate14.type1;
 
 public class Person {
     private Department department;

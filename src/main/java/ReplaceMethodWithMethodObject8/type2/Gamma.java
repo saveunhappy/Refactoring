@@ -1,4 +1,4 @@
-package main.java.ReplaceMethodWithMethodObject8.type2;
+package ReplaceMethodWithMethodObject8.type2;
 
 public class Gamma {
     //为了把这个函数变成一个函数对象，先声明一个类，用一个final字段用来保存源对象，

@@ -1,4 +1,4 @@
-package main.java.ReplaceSubClassWithField32.type4;
+package ReplaceSubClassWithField32.type4;
 
 
 public class Person {

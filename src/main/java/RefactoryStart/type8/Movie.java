@@ -1,4 +1,4 @@
-package main.java.RefactoryStart.type8;
+package RefactoryStart.type8;
 
 
 

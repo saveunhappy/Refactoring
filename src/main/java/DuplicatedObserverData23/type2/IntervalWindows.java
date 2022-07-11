@@ -1,4 +1,4 @@
-package main.java.DuplicatedObserverData23.type2;
+package DuplicatedObserverData23.type2;
 
 import java.awt.*;
 import java.awt.event.FocusAdapter;

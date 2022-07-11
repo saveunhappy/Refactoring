@@ -1,4 +1,4 @@
-package main.java.IntroduceLocalExtention17.type1;
+package IntroduceLocalExtention17.type1;
 
 import java.util.Date;
 

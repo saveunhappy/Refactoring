@@ -1,4 +1,4 @@
-package main.java.ReplaceSubClassWithField32.type3;
+package ReplaceSubClassWithField32.type3;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package main.java.ReplaceTypeCodeWithClass29.type3;
+package ReplaceTypeCodeWithClass29.type3;
 
 public class Person {
 //    public static final int O = BloodGroup.O.getCode();

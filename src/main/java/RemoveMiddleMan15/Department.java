@@ -1,4 +1,4 @@
-package main.java.RemoveMiddleMan15;
+package RemoveMiddleMan15;
 
 public class Department {
     private String chargeCode;

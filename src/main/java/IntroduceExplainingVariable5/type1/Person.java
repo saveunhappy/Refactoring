@@ -1,4 +1,4 @@
-package main.java.IntroduceExplainingVariable5.type1;
+package IntroduceExplainingVariable5.type1;
 
 public class Person {
     private String platform;

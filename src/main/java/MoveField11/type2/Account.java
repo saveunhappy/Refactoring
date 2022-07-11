@@ -1,4 +1,4 @@
-package main.java.MoveField11.type2;
+package MoveField11.type2;
 
 public class Account {
     private AccountType type;

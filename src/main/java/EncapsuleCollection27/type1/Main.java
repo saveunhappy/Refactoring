@@ -1,4 +1,5 @@
-package main.java.EncapsuleCollection27.type1;
+package EncapsuleCollection27.type1;
+
 
 import org.junit.Assert;
 

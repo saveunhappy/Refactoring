@@ -1,4 +1,4 @@
-package main.java.ReplacetypeWithStateOrStrategy31.type1;
+package ReplacetypeWithStateOrStrategy31.type1;
 
 public class Employee {
     private int type;

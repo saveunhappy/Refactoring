@@ -1,4 +1,4 @@
-package main.java.ReplaceMethodWithMethodObject8.type2;
+package ReplaceMethodWithMethodObject8.type2;
 
 public class Amount {
     public int delta(){

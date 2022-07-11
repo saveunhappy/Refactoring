@@ -1,4 +1,4 @@
-package main.java.HideDelegate14.type2;
+package HideDelegate14.type2;
 
 public class Department {
     private String chargeCode;

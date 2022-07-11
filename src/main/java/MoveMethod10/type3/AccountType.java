@@ -1,4 +1,4 @@
-package main.java.MoveMethod10.type3;
+package MoveMethod10.type3;
 
 public class AccountType {
     private boolean premium;

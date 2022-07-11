@@ -1,4 +1,4 @@
-package main.java.ChangeReferenceToValue22;
+package ChangeReferenceToValue22;
 
 public class Currency {
     //在ChangeValueToReference中说过，要在引用对象和值对象之间做出选择有时并不容易

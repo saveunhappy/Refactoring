@@ -1,4 +1,4 @@
-package main.java.ReplaceArrayWithObject23.type3;
+package ReplaceArrayWithObject23.type3;
 
 public class Performance {
     //TODO  然后，它就可以光荣的下岗了

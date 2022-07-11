@@ -1,4 +1,4 @@
-package main.java.ReplaceTypeCodeWithSubClass30.type2;
+package ReplaceTypeCodeWithSubClass30.type2;
 
 public class Manager extends Employee{
     public int getType(){

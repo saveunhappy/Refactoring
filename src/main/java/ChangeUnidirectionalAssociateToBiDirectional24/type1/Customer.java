@@ -1,4 +1,4 @@
-package main.java.ChangeUnidirectionalAssociateToBiDirectional24.type1;
+package ChangeUnidirectionalAssociateToBiDirectional24.type1;
 
 import java.util.HashSet;
 import java.util.Set;

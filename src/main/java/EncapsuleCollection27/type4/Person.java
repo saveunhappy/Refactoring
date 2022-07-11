@@ -1,4 +1,4 @@
-package main.java.EncapsuleCollection27.type4;
+package EncapsuleCollection27.type4;
 
 import org.junit.Assert;
 
@@ -30,7 +30,7 @@ public class Person {
         Iterator iter = getCourses().iterator();
         int count = 0;
         while (iter.hasNext()){
-            main.java.EncapsuleCollection27.type2.Course each = (main.java.EncapsuleCollection27.type2.Course)iter.next();
+            Course each = (Course)iter.next();
             if(each.isAdvanced())count++;
             System.out.println(each);
         }

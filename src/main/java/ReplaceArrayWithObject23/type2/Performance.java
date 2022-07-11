@@ -1,4 +1,4 @@
-package main.java.ReplaceArrayWithObject23.type2;
+package ReplaceArrayWithObject23.type2;
 
 public class Performance {
     //TODO  测试完之后，就可以把它设置成private的了

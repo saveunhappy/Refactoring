@@ -1,4 +1,4 @@
-package main.java.ReplacetypeWithStateOrStrategy31.type5;
+package ReplacetypeWithStateOrStrategy31.type5;
 
 public class Engineer extends EmployeeType {
     @Override

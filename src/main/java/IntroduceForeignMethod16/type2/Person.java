@@ -1,4 +1,4 @@
-package main.java.IntroduceForeignMethod16.type2;
+package IntroduceForeignMethod16.type2;
 
 import java.util.Date;
 

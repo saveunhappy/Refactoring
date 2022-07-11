@@ -1,4 +1,4 @@
-package main.java.SubstitudeAlgorithm9.type1;
+package SubstitudeAlgorithm9.type1;
 
 public class Person {
 

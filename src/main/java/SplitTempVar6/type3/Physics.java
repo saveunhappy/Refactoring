@@ -1,4 +1,4 @@
-package main.java.SplitTempVar6.type3;
+package SplitTempVar6.type3;
 
 public class Physics {
     double primaryForce = 5;

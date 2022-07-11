@@ -1,4 +1,4 @@
-package main.java.ReplaceTypeCodeWithClass29.type1;
+package ReplaceTypeCodeWithClass29.type1;
 
 public class Person {
     public static final int O = 0;

@@ -1,4 +1,4 @@
-package main.java.ExtractClass12.type4;
+package ExtractClass12.type4;
 
 public class TelephoneNumber {
     private String areaCode;

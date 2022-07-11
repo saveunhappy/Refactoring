@@ -1,4 +1,4 @@
-package main.java.Refactoring;
+package Refactoring;
 
 public class Rental {
     private Movie movie;

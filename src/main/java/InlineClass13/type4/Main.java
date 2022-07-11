@@ -1,4 +1,4 @@
-package main.java.InlineClass13.type4;
+package InlineClass13.type4;
 
 public class Main {
     //TODO

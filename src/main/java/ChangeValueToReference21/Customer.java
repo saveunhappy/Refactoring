@@ -1,4 +1,4 @@
-package main.java.ChangeValueToReference21;
+package ChangeValueToReference21;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package main.java.SplitTempVar6.type1;
+package SplitTempVar6.type1;
 
 public class Person {
     private double height;

@@ -1,4 +1,4 @@
-package main.java.MoveMethod10.type2;
+package MoveMethod10.type2;
 
 public class Account {
     private AccountType type;

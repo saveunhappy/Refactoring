@@ -1,4 +1,4 @@
-package main.java.InlineMethod2;
+package InlineMethod2;
 
 public class Main {
 }

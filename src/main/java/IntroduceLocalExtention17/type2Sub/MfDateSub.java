@@ -1,4 +1,4 @@
-package main.java.IntroduceLocalExtention17.type2Sub;
+package IntroduceLocalExtention17.type2Sub;
 
 import java.util.Date;
 

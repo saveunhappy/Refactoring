@@ -1,4 +1,4 @@
-package main.java.ChangeUnidirectionalAssociateToBiDirectional24.type2;
+package ChangeUnidirectionalAssociateToBiDirectional24.type2;
 
 
 public class Main {

@@ -1,4 +1,4 @@
-package main.java.ExtraMethod1.type1;
+package ExtraMethod1.type1;
 
 import java.util.Enumeration;
 import java.util.Vector;

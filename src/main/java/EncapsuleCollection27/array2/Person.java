@@ -1,4 +1,4 @@
-package main.java.EncapsuleCollection27.array2;
+package EncapsuleCollection27.array2;
 
 public class Person {
     private String[] skills;

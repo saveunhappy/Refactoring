@@ -1,4 +1,4 @@
-package main.java.ReplaceTypeCodeWithClass29.type4;
+package ReplaceTypeCodeWithClass29.type4;
 
 public class Person {
     private BloodGroup bloodGroup;

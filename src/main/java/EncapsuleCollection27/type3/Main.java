@@ -1,7 +1,5 @@
-package main.java.EncapsuleCollection27.type3;
+package EncapsuleCollection27.type3;
 
-import main.java.EncapsuleCollection27.type2.Course;
-import main.java.EncapsuleCollection27.type2.Person;
 import org.junit.Assert;
 
 import java.util.HashSet;

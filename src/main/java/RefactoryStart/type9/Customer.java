@@ -1,4 +1,4 @@
-package main.java.RefactoryStart.type9;
+package RefactoryStart.type9;
 
 
 import java.util.Enumeration;

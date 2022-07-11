@@ -1,4 +1,4 @@
-package main.java.RefactoryStart.type10;
+package RefactoryStart.type10;
 public class Rental {
     private Movie movie;
     private int dayRented;

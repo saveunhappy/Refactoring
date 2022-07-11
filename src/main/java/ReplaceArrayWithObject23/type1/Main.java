@@ -1,4 +1,4 @@
-package main.java.ReplaceArrayWithObject23.type1;
+package ReplaceArrayWithObject23.type1;
 
 
 public class Main {

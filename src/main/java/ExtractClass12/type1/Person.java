@@ -1,4 +1,4 @@
-package main.java.ExtractClass12.type1;
+package ExtractClass12.type1;
 
 public class Person {
     private String name;

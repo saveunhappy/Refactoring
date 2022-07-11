@@ -1,4 +1,4 @@
-package main.java.IntroduceForeignMethod16;
+package IntroduceForeignMethod16;
 
 public class Person {
 }

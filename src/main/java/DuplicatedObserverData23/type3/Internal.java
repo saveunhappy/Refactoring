@@ -1,4 +1,4 @@
-package main.java.DuplicatedObserverData23.type3;
+package DuplicatedObserverData23.type3;
 
 import java.util.Observable;
 

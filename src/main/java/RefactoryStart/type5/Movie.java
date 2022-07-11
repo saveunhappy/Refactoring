@@ -1,5 +1,4 @@
-package main.java.RefactoryStart.type5;
-
+package RefactoryStart.type5;
 public class Movie {
     public static final int CHILERENDS = 2;
     public static final int REGULAR = 0;

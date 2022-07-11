@@ -1,4 +1,4 @@
-package main.java.ConsolidateConditionalExpression33.type1;
+package ConsolidateConditionalExpression33.type1;
 
 public class Person {
     private double seniority = 1.0;

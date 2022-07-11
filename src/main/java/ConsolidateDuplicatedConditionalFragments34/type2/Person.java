@@ -1,4 +1,4 @@
-package main.java.ConsolidateDuplicatedConditionalFragments34.type2;
+package ConsolidateDuplicatedConditionalFragments34.type2;
 
 public class Person {
     private double total = 0.0;

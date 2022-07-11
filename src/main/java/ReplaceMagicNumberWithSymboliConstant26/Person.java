@@ -1,4 +1,4 @@
-package main.java.ReplaceMagicNumberWithSymboliConstant26;
+package ReplaceMagicNumberWithSymboliConstant26;
 
 public class Person {
 //    double potentialEnergy(double mass,double height){

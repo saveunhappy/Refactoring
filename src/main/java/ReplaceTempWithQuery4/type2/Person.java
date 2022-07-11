@@ -1,4 +1,4 @@
-package main.java.ReplaceTempWithQuery4.type2;
+package ReplaceTempWithQuery4.type2;
 
 public class Person {
     private int quantity;

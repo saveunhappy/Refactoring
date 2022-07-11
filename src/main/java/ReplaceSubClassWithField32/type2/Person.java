@@ -1,4 +1,4 @@
-package main.java.ReplaceSubClassWithField32.type2;
+package ReplaceSubClassWithField32.type2;
 
 
 abstract public class Person {

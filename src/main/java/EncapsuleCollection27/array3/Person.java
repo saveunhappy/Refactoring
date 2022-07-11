@@ -1,4 +1,4 @@
-package main.java.EncapsuleCollection27.array3;
+package EncapsuleCollection27.array3;
 
 import java.util.ArrayList;
 import java.util.List;

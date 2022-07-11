@@ -1,4 +1,4 @@
-package main.java.RemoveAssignmentToParameter7.type2;
+package RemoveAssignmentToParameter7.type2;
 
 public class Person {
 

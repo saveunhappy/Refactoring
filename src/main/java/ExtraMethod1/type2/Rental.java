@@ -1,4 +1,4 @@
-package main.java.ExtraMethod1.type2;
+package ExtraMethod1.type2;
 
 public class Rental {
     private Movie movie;

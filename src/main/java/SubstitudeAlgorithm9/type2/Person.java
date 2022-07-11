@@ -1,4 +1,4 @@
-package main.java.SubstitudeAlgorithm9.type2;
+package SubstitudeAlgorithm9.type2;
 
 import java.util.Arrays;
 import java.util.List;

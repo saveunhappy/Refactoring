@@ -1,4 +1,4 @@
-package main.java.ReplacetypeWithStateOrStrategy31.type4;
+package ReplacetypeWithStateOrStrategy31.type4;
 
 abstract public class EmployeeType {
     static final int ENGINEER = 0;

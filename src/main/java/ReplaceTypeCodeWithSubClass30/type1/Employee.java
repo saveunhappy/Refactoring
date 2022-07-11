@@ -1,4 +1,4 @@
-package main.java.ReplaceTypeCodeWithSubClass30.type1;
+package ReplaceTypeCodeWithSubClass30.type1;
 
 public class Employee {
     private int type;

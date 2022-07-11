@@ -1,4 +1,4 @@
-package main.java.IntroduceLocalExtention17.type3Wrap;
+package IntroduceLocalExtention17.type3Wrap;
 
 import java.util.Date;
 

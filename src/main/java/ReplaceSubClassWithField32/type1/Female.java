@@ -1,4 +1,4 @@
-package main.java.ReplaceSubClassWithField32.type1;
+package ReplaceSubClassWithField32.type1;
 
 public class Female extends Person{
 

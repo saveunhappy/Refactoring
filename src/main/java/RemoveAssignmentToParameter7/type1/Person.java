@@ -1,4 +1,4 @@
-package main.java.RemoveAssignmentToParameter7.type1;
+package RemoveAssignmentToParameter7.type1;
 
 public class Person {
     public static void discount(int inputValue,int quantity,int yearToDate){

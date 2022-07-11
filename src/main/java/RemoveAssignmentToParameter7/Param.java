@@ -1,4 +1,4 @@
-package main.java.RemoveAssignmentToParameter7;
+package RemoveAssignmentToParameter7;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;

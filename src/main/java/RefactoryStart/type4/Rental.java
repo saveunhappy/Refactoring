@@ -1,4 +1,4 @@
-package main.java.RefactoryStart.type4;
+package RefactoryStart.type4;
 
 
 public class Rental {
